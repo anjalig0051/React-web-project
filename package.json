@@ -1,0 +1,12 @@
+{
+  "name": "react-web-project",
+  "version": "1.0.0",
+  "description": "React-Web-Projrct  :  This Projects are created by using React and third Party Libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
